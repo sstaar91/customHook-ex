@@ -1,0 +1,24 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 40px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 10px 5px rgba(1, 1, 1, 0.3);
+}
+
+.cardImage {
+  margin: 0 auto 20px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+.name {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.text {
+  margin: 5px 0;
+}
